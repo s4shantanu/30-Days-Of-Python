@@ -432,6 +432,6 @@ To run the python file check the image below. You can run the python file either
 
 1. Create a folder named day_1 inside 30DaysOfPython folder. Inside day_1 folder, create a python file helloworld.py and repeat questions 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you have saved your file, and run it.
 
-🎉 CONGRATULATIONS ! 🎉
+🎉  CONGRATULATIONS ! 🎉
 
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
